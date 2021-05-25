@@ -1,10 +1,11 @@
-Sample Module Repository
-========================
+===
+ADS-B Interface
+===
 
-This simple project is an example repo for Python projects.
+Purpose
+===
+This is project to interface with the ADS-B Exchange API (https://rapidapi.com/adsbx/api/adsbexchange-com).
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+Status
+===
+It is not yet functional, I am just starting to build it.
